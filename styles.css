@@ -30,6 +30,18 @@ footer {
   font-size: 1.2rem;
 }
 
-#photo-cred > a {
+#photo-cred > a:link {
   color: lightblue;
+}
+#photo-cred > a:visited {
+  color: lightcoral;
+}
+#photo-cred > a:focus {
+  color: lemonchiffon;
+}
+#photo-cred > a:hover {
+  color: darkcyan;
+}
+#photo-cred > a:active {
+  color: lightcoral;
 }
