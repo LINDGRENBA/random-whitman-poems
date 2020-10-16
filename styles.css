@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 5rem;
+  box-sizing: border-box;
+  background-image: url(images/poetry.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#poem {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2rem;
+  min-width: 10rem;
+  min-height: 15rem;
+  background-color: #000;
+  opacity: 0.75;
+}

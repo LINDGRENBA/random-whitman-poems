@@ -1,8 +1,13 @@
 <h1 style="text-align: center;">Walt Whitman Poem Generator</h1>
 
-#### A project to randomly generate Walt Whitman poems, 10.16.2020
+<h3 align = "center"> A project to randomly generate Walt Whitman poems, 10.16.2020
 
-#### By Brittany Lindgren
+<h2 align = "center"> By Brittany Lindgren
+
+<h1 align = "center"><img width='500' height='350' src='images/poetry.jpg'>
+
+<span>Photo by <a href="https://unsplash.com/@iamtru?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Trust "Tru" Katsande</a> on <a href="https://unsplash.com/s/photos/poetry?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
 
 ## Description
 
