@@ -8,7 +8,7 @@
 
 // req.headers({
 // 	"x-rapidapi-host": "pafmon-walt-whitman-poems.p.rapidapi.com",
-// 	"x-rapidapi-key": "dee4ba2a19msh0b3107c23a70fdfp1cc2cdjsnc07681ab3e06",
+// 	"x-rapidapi-key": {API_KEY},
 // 	"useQueryString": true
 // });
 
@@ -28,7 +28,7 @@
 
 // req.headers({
 // 	"x-rapidapi-host": "pafmon-walt-whitman-poems.p.rapidapi.com",
-// 	"x-rapidapi-key": "dee4ba2a19msh0b3107c23a70fdfp1cc2cdjsnc07681ab3e06",
+// 	"x-rapidapi-key": {API_KEY},
 // 	"useQueryString": true
 // });
 
